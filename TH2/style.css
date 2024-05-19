@@ -1,0 +1,15 @@
+body section .container {
+    display: flex;
+    align-content: space-between;
+}
+.container div ul img {
+    width: 590px;
+    height: 230px;
+}
+.container div ul{
+    text-decoration: none;
+    list-style: none;
+}
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
